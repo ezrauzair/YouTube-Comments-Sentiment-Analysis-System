@@ -43,8 +43,8 @@ This project is a powerful tool that performs sentiment analysis on YouTube comm
 
 
 🌟 Future Enhancements
-Add multilingual support for comments in different languages.
-Incorporate more advanced NLP models for even more accurate sentiment analysis.
+* Add multilingual support for comments in different languages.
+* Incorporate more advanced NLP models for even more accurate sentiment analysis.
 
 
 
