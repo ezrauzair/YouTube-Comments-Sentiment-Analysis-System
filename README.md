@@ -1,4 +1,5 @@
 🎥 YouTube Comments Sentiment Analysis
+
 This project is a powerful tool that performs sentiment analysis on YouTube comments using advanced machine learning models. By leveraging APIs from YouTube and Amazon Web Services (AWS), this tool fetches and analyzes comments to determine whether they are positive, negative, or neutral. The sentiment analysis is powered by a fine-tuned BERT model, achieving an accuracy of 87% on the test dataset. The results are displayed with visually appealing graphs through an amazing Django-powered UI.
 
 📜 Features
