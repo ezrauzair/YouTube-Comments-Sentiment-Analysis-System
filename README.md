@@ -32,10 +32,13 @@ This project is a powerful tool that performs sentiment analysis on YouTube comm
 
 🖼️ Screenshots
  🔍 YouTube Comment Fetching Interface
- 
-
+  ![Screenshot 2024-09-20 122156](https://github.com/user-attachments/assets/79a93f2a-5b71-4fdf-bf05-d5de1297cbce)
 
  🎯 Sentiment Analysis Results
+  ![image](https://github.com/user-attachments/assets/3a30299f-5582-4eec-8f2f-9c580f97eb6f)
+
+
+  
 
 
 
